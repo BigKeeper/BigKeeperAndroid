@@ -1,3 +1,3 @@
 
-include ':me.ele.lpd:commonservice'
-project(':me.ele.lpd:commonservice').projectDir = new File(rootProject.projectDir, '../CommonService/commonservice-lib')
+include ':me.ele.lpd:lpdlogger'
+project(':me.ele.lpd:lpdlogger').projectDir = new File(rootProject.projectDir, '../LPDLogger/lpdlogger-lib')

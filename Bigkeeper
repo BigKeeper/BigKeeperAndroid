@@ -4,5 +4,5 @@ home 'BigKeeperAndroid', :git => 'git@github.com:BigKeeper/BigKeeperAndroid.git'
 
 modules do
   pod 'CommonService', :git => 'git@github.com:BigKeeper/CommonService', :pulls => 'https://github.com/BigKeeper/CommonService/pulls'
-  pod 'BigService', :git => 'git@github.com:BigKeeper/BigService', :pulls => 'https://github.com/BigKeeper/BigService/pulls'
+  pod 'LPDLogger', :git => 'git@git.elenet.me:LPD-iOS/LPDLogger.git', :pulls => 'https://git.elenet.me/LPD-iOS/LPDLogger/merge_requests'
 end
