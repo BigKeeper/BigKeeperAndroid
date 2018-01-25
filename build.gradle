@@ -1,2 +1,2 @@
-compile project('me.ele.lpd:commonservice')
+compile 'me.ele.lpd:commonservice:0.0.1'
 compile 'me.ele.lpd:bigservice:0.0.1'
