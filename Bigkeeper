@@ -4,5 +4,5 @@ home 'BigKeeperAndroid', :git => 'git@github.com:BigKeeper/BigKeeperAndroid.git'
 
 modules do
   pod 'CommonService', :git => 'git@github.com:BigKeeper/CommonService', :pulls => 'https://github.com/BigKeeper/CommonService/pulls'
-  pod ‘BigService', :git => 'git@github.com:BigKeeper/BigService', :pulls => 'https://github.com/BigKeeper/BigService/pulls'
+  pod 'BigService', :git => 'git@github.com:BigKeeper/BigService', :pulls => 'https://github.com/BigKeeper/BigService/pulls'
 end
